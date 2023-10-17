@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "image_url": "https://i.ibb.co/vQyzZ3n/game-development.jpg",
+        "description": "Game Development Services",
+        "related_services": [
+            [
+                "Content Creation",
+                "Content creation services encompass a wide range of activities aimed at producing engaging and visually appealing content for online platforms. This includes creating videos, images, and written content related to gaming and technology. Content creators often develop gameplay videos, tutorials, reviews, and promotional materials to showcase products and engage audiences."
+            ],
+            [
+                "Technical Support",
+                "Technical support services involve providing assistance and troubleshooting for hardware and software-related issues. In the gaming and tech context, technical support teams help users and businesses resolve problems with their equipment, software applications, networks, and devices. This service ensures that technology operates smoothly and efficiently."
+            ]
+        ],
+        "price": "$10,000 - $100,000",
+        "details": "Our game development services encompass every aspect of game creation. We work closely with clients to design captivating gameplay experiences. Our team of expert coders ensures smooth functionality across multiple platforms, while our talented artists bring stunning visuals to life. Rigorous quality assurance guarantees a bug-free, enjoyable gaming experience. Whether it's a mobile app, PC game, or console release, we have the expertise to make your game a reality."
+    },
+    {
+        "id": 2,
+        "image_url": "https://i.ibb.co/Q7gmkX0/Esports-manage.jpg",
+        "description": "ESports Management and Consulting",
+        "related_services": [
+            [
+                "Event Planning",
+                "Event planning services specialize in organizing and coordinating various types of events, such as gaming conventions, tech conferences, and eSports tournaments. Event planners handle logistics, venue selection, scheduling, and other aspects to ensure that events run seamlessly and meet the expectations of attendees."
+            ],
+            [
+                "Marketing and Promotion",
+                "Marketing and promotion services are vital for creating awareness and generating interest in gaming and tech-related events, products, or services. This includes creating marketing strategies, managing social media campaigns, sending out press releases, and utilizing various promotional channels to reach a target audience."
+            ]
+        ],
+        "price": "$5,000 - $50,000",
+        "details": "We specialize in eSports management and consulting, offering comprehensive support to professional eSports teams and players. Our services include contract negotiations to secure lucrative deals, strategic sponsorships to boost team revenue, and meticulous tournament management for seamless competition experiences. We understand the eSports industry inside out and are committed to helping our clients succeed on and off the virtual battlefield."
+    },
+    {
+        "id": 3,
+        "image_url": "https://i.ibb.co/K9C9dBM/tech-support.jpg",
+        "description": "Tech Support and IT Services",
+        "related_services": [
+            [
+                "Technical Support",
+                "Technical support services involve providing assistance and troubleshooting for hardware and software-related issues. In the gaming and tech context, technical support teams help users and businesses resolve problems with their equipment, software applications, networks, and devices. This service ensures that technology operates smoothly and efficiently."
+            ],
+            [
+                "IT Infrastructure Management",
+                "IT infrastructure management services focus on overseeing and maintaining an organization's technology infrastructure. This includes managing servers, networks, security protocols, and ensuring that technology resources are available and secure. It is crucial for the smooth operation of tech companies and businesses."
+            ]
+        ],
+        "price": "$100 - $300 per hour",
+        "details": "Our tech support and IT services are designed to keep your technology infrastructure running smoothly. From troubleshooting hardware and software issues to managing your network and ensuring top-notch cybersecurity, we've got your tech needs covered. Our experienced technicians are available on-demand to resolve any tech-related challenges you may encounter."
+    },
+    {
+        "id": 4,
+        "image_url": "https://i.ibb.co/RTWT7YP/streaming.jpg",
+        "description": "Game Streaming and Content Creation",
+        "related_services": [
+            {
+                "Social Media Promotion": " Social media promotion services focus specifically on leveraging social media platforms like Twitter, Facebook, Instagram, and TikTok to promote gaming and tech-related content, events, or products. Effective social media promotion helps in building a strong online presence, engaging with followers, and increasing visibility."
+            },
+            {
+                "Graphic Design": "Graphic design services involve creating visually appealing graphics, images, logos, and promotional materials. In the context of gaming and tech, graphic designers are essential for designing eye-catching game artwork, event banners, logos, and other visual assets that enhance branding and marketing efforts."
+            }
+        ],
+        "price": "$50 - $500 per hour",
+        "details": "Our game streaming and content creation services are tailored for gamers and content creators. We offer live streaming of gameplay, engaging with your audience on platforms like Twitch and YouTube, creating captivating video content, and stunning graphic designs to make your online presence stand out. Whether you're a gamer looking to share your skills or a brand aiming to connect with the gaming community, we've got you covered."
+    },
+    {
+        "id": 5,
+        "image_url": "https://i.ibb.co/xJyyZ0g/tournament-jpg.webp",
+        "description": "Gaming Events and Tournaments ",
+        "related_services": [
+            [
+                "Event Planning",
+                " Event planning services specialize in organizing and coordinating various types of events, such as gaming conventions, tech conferences, and eSports tournaments. Event planners handle logistics, venue selection, scheduling, and other aspects to ensure that events run seamlessly and meet the expectations of attendees."
+            ],
+            [
+                "Marketing and Promotion",
+                "Marketing and promotion services are vital for creating awareness and generating interest in gaming and tech-related events, products, or services. This includes creating marketing strategies, managing social media campaigns, sending out press releases, and utilizing various promotional channels to reach a target audience."
+            ]
+        ],
+        "price": "$20,000 - $200,000",
+        "details": "Our gaming events and tournaments organization services are all about creating unforgettable gaming experiences. We handle everything from event planning and logistics to marketing and promotion, ensuring your gaming event or eSports tournament is a resounding success. Whether it's a small-scale LAN party or a large-scale gaming convention, our expertise ensures a seamless and memorable event for gamers and enthusiasts alike."
+    },
+    {
+        "id": 6,
+        "image_url": "https://i.ibb.co/NyXqkCz/Game-dev.jpg",
+        "description": "Tech Education and Training",
+        "related_services": [
+            [
+                "Course Development",
+                "Course development services specialize in creating educational materials and curricula for tech-related courses, workshops, and training programs. This involves designing course content, assessments, and learning materials to impart specific skills and knowledge in areas such as programming, game design, and technology."
+            ],
+            [
+                "Online Learning Platforms",
+                "Online learning platform services offer digital platforms and tools for hosting and delivering educational content. These platforms facilitate online courses, training sessions, and certification programs in the tech and gaming sectors, providing learners with convenient access to valuable educational resources."
+            ]
+        ],
+        "price": "$500 - $5,000 per course",
+        "details": "Our tech education and training services are designed to equip individuals with the skills they need to excel in the ever-evolving tech industry. We offer a range of courses, workshops, and certifications in areas such as programming, game design, virtual reality, and augmented reality. Our expert instructors provide hands-on training, and our online learning platforms make it convenient to acquire new tech skills. Whether you're an aspiring tech professional or a company looking to upskill your workforce, we have tailored solutions to meet your needs."
+    }
+]

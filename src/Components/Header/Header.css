@@ -1,0 +1,23 @@
+.buttons {
+    border-bottom: 2px solid red;
+    border: none;
+    /* transition: .6s linear; */
+}
+
+.buttons:hover {
+    border-bottom: 2px solid red;
+    /* transition: .6s; */
+}
+
+.navbar {
+    background-color: transparent;
+    transition: .6s ease-in-out;
+
+
+}
+
+.navactive {
+    background-color: rgba(14, 2, 36, 0.659);
+    box-shadow: 0px 0px 20px 10px coral;
+    transition: all ease .6s;
+}

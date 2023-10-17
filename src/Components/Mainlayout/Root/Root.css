@@ -1,0 +1,11 @@
+.header {
+    background-image: url('../../../assets/header_banner.jpg'), linear-gradient(to bottom right, rgb(21, 17, 17), rgba(17, 15, 15, 0.403));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+
+    /* background-attachment: fixed; */
+
+
+}

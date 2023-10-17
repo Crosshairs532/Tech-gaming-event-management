@@ -1,0 +1,30 @@
+[
+    {
+        "eventName": "Tech Expo 2022",
+        "date": "July 15-17, 2022",
+        "location": "San Francisco, CA",
+        "img": "https://i.ibb.co/DWKYBkf/expo.jpg",
+        "description": "Tech Expo 2022 was a three-day technology extravaganza featuring the latest innovations in robotics, AI, and virtual reality. Attendees had the opportunity to explore cutting-edge tech products and attend expert panels and workshops."
+    },
+    {
+        "eventName": "GameFest 2021",
+        "date": "October 8-10, 2021",
+        "location": "Los Angeles, CA",
+        "img": "https://i.ibb.co/xStDqtC/gamefest.jpg",
+        "description": "GameFest 2021 was a weekend-long gaming festival that celebrated all things gaming. It included esports tournaments, game developer showcases, cosplay contests, and a vendor expo for gamers of all ages."
+    },
+    {
+        "eventName": "FutureTech Summit 2020",
+        "date": "November 5-7, 2020",
+        "location": "New York, NY",
+        "img": "https://i.ibb.co/phXLD8q/futuretech.png",
+        "description": "FutureTech Summit 2020 brought together industry leaders, tech enthusiasts, and startups to discuss emerging technologies like blockchain, IoT, and cybersecurity. It featured keynote speakers, networking sessions, and startup pitch competitions."
+    },
+    {
+        "eventName": "GamerCon 2019",
+        "date": "August 24-25, 2019",
+        "location": "Austin, TX",
+        "img": "https://i.ibb.co/88B66MS/gamer-con-jpg.webp",
+        "description": "GamerCon 2019 was a two-day gaming convention that celebrated gaming culture. It featured retro gaming arcades, cosplay competitions, celebrity gaming panels, and opportunities for attendees to try out the latest gaming hardware."
+    }
+]
